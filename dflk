@@ -1,0 +1,597 @@
+[33mcommit 3f84785af50c1dbc779dc7cb8c9abebcbe7c8d43[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: alexytlee <alexytlee@gmail.com>
+Date:   Tue Sep 29 21:41:20 2020 +0800
+
+    cdcitesting
+
+[33mcommit 35af93028056f223427179e56d0d40a2d1cd104f[m
+Author: alexytlee <alexytlee@gmail.com>
+Date:   Mon Sep 14 15:04:23 2020 +0800
+
+    finished
+
+[33mcommit be4b3f25fb2699ae655f91f1b9961478447eeb3f[m
+Author: alexytlee <alexytlee@gmail.com>
+Date:   Mon Sep 14 01:09:44 2020 +0800
+
+    travis config
+
+[33mcommit f02e792dc4973374575dfbfd4429fb817a705e53[m
+Author: alexytlee <alexytlee@gmail.com>
+Date:   Mon Sep 14 01:02:58 2020 +0800
+
+    setting up travis
+
+[33mcommit 9b55267d94c61de95f3d2be2436d46b6f4e06524[m
+Author: Alex Lee <32149210+alexytlee@users.noreply.github.com>
+Date:   Mon Sep 14 00:16:02 2020 +0800
+
+    Update README.md
+
+[33mcommit 8d2c11092bfc6d1422d52ffa4ca7dbe9efc43d52[m
+Author: alexytlee <alexytlee@gmail.com>
+Date:   Mon Sep 14 00:15:22 2020 +0800
+
+    initial commit
+
+[33mcommit f43bceddf915238837f9d16446e5809c882057e1[m
+Merge: 89e9615 713db62
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Jul 31 08:41:19 2020 -0600
+
+    Merge pull request #8 from DanielJWagener/update-passport
+    
+    Update passport-google-oauth20 to version 2.0.0
+
+[33mcommit 89e9615fcb96fe6a8dd72570ce2de0a8256109c8[m
+Author: stephen grider <ste.grider@gmail.com>
+Date:   Fri May 1 09:19:43 2020 -0600
+
+    update keys
+
+[33mcommit c7fec982031cba56e2936beed39ce1bbddff0801[m
+Merge: 86b3604 e2bb718
+Author: stephen grider <ste.grider@gmail.com>
+Date:   Fri May 1 09:16:42 2020 -0600
+
+    Merge branch 'master' of github.com:StephenGrider/AdvancedNodeStarter
+
+[33mcommit 713db621796ff6dadaa8a478c69464b61f632c3c[m
+Author: DanielJWagener <daniel.j.wagener@gmail.com>
+Date:   Tue Apr 28 10:18:33 2020 -0400
+
+    Update passport-google-oauth20 to version 2.0.0
+
+[33mcommit 86b3604a69609ff795d47afdc518bbbc74fb57b8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Dec 27 17:39:17 2019 -0800
+
+    Update index.js
+
+[33mcommit be0b73fb571f564672ac5302a8ebb4ab7687fdaf[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Sun Dec 15 10:48:59 2019 -0800
+
+    Update dev.js
+
+[33mcommit 99a97eb1d6368615d90da5ab98a2aa03ca7c1f10[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Sun Dec 15 08:49:24 2019 -0800
+
+    Update Landing.js
+
+[33mcommit f740a99ccc430288384f405fbe510b0791d2d34d[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Dec 12 11:33:36 2019 -0800
+
+    Update dev.js
+
+[33mcommit 43e45bda07253a40e6d29376a18cd13c0138f2c5[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Sat Dec 7 13:10:49 2019 -0800
+
+    Create README.md
+
+[33mcommit fb39ff08c30321e7d912430e9bf7905fb7b78c67[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Sat Dec 7 12:58:47 2019 -0800
+
+    header tweaks
+
+[33mcommit 2aa2aecab1b7b9185aa73b0d67c40efb723d7a7e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Sat Dec 7 12:41:42 2019 -0800
+
+    remove scripts
+
+[33mcommit 8392fb3b1f5528ce743471690ee106b0349e81b9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Sat Dec 7 12:40:11 2019 -0800
+
+    refactor frontend
+
+[33mcommit c3929aeeeaca506f9501813f95a5a96b58e15150[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Sat Dec 7 12:28:56 2019 -0800
+
+    upload form tweaks
+
+[33mcommit 080c5f1604208f1dcb804fb20d979b9ba49f6a5e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 16:51:26 2019 -0800
+
+    promisify hset
+
+[33mcommit f8bf728f4c1183327744d4f05facdf2ee6166772[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 16:47:03 2019 -0800
+
+    troubleshoot heroku
+
+[33mcommit dd17420e51dc11bc733c0c6ae34f28bdc280f159[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 16:40:55 2019 -0800
+
+    redis caching
+
+[33mcommit fc21c60a1d24a504488fb22c9f59177e25868842[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 13:29:30 2019 -0800
+
+    add mongo to travis
+
+[33mcommit 18acefbbb402e8feed09eddfd8f112f10bfcf549[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 11:59:19 2019 -0800
+
+    removed more babel deps
+
+[33mcommit c638aca371f61173111941045243ae820ce1e280[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 11:50:05 2019 -0800
+
+    remove more bable stuff
+
+[33mcommit dad7f28d2117cfbe5909b9e2b34bc26fbab4991e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 11:42:52 2019 -0800
+
+    removed deps
+
+[33mcommit e6ccdc594968c38e560dcb7f0a2a054df94146f6[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 11:36:11 2019 -0800
+
+    script
+
+[33mcommit 286a587ae5a0cf4d1f80986e97a5c7a6e4d8b02b[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 11:30:03 2019 -0800
+
+    debug
+
+[33mcommit f340d1eeb7501a88cf74fcf0d6e0a5cc0330f766[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Dec 6 11:20:50 2019 -0800
+
+    add migrate.json
+
+[33mcommit e2bb718ab459125c3f43412dd0dd5d884565a919[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Feb 27 17:39:17 2018 -0800
+
+    Update index.js
+
+[33mcommit 4d7bad9b7c0e16254cd6772c24d3b0525e9a8dfb[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Feb 15 10:48:59 2018 -0800
+
+    Update dev.js
+
+[33mcommit 208e45b7eff4b0875de6fa9df7f34275575867de[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Feb 15 08:49:24 2018 -0800
+
+    Update Landing.js
+
+[33mcommit 20c5285df3872ebb344fd699eb0140a54137e17d[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Feb 12 11:33:36 2018 -0800
+
+    Update dev.js
+
+[33mcommit 34ad2e75e72c3630108ab5304edac1962019df50[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Feb 7 13:10:49 2018 -0800
+
+    Create README.md
+
+[33mcommit b802533bdc81faae41fa535b4a0572b540267181[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Feb 7 12:58:47 2018 -0800
+
+    header tweaks
+
+[33mcommit c71e90def632b9eb0b3333aef922dde1f9bc04f3[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Feb 7 12:41:42 2018 -0800
+
+    remove scripts
+
+[33mcommit 23d95192a3d46b5c0b56e260990ea8544fb34ff6[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Feb 7 12:40:11 2018 -0800
+
+    refactor frontend
+
+[33mcommit 17b5349ade925bd943d45588723552d173e740b6[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Feb 7 12:28:56 2018 -0800
+
+    upload form tweaks
+
+[33mcommit ca974de2fc530cf2e0c00baa79144a8d6a421d6d[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 16:51:26 2018 -0800
+
+    promisify hset
+
+[33mcommit d3ac602dc56e2a05a982048b2a40673a243a8764[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 16:47:03 2018 -0800
+
+    troubleshoot heroku
+
+[33mcommit 71150470f34e2bc2f061811b55aa9ed64af99ce3[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 16:40:55 2018 -0800
+
+    redis caching
+
+[33mcommit 72b34dff8531d5908344eec0d2a96fca5013c1e8[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 13:29:30 2018 -0800
+
+    add mongo to travis
+
+[33mcommit e92436b684f534b709e2f7e25746631f0f126efa[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:59:19 2018 -0800
+
+    removed more babel deps
+
+[33mcommit c466591507ce7720dc4840bbd6141645e8813c67[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:50:05 2018 -0800
+
+    remove more bable stuff
+
+[33mcommit 58524e1f8d6e2be5217b19f0acabefce8ce17bdf[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:42:52 2018 -0800
+
+    removed deps
+
+[33mcommit af764feeec20e819c3dfa13a5fd2529f33f8634d[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:36:11 2018 -0800
+
+    script
+
+[33mcommit c912f09b8031f718c568d202b46cc98dc8e8095a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:30:03 2018 -0800
+
+    debug
+
+[33mcommit 594aaae65613d13dde76b95fef4755888524f0dc[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:20:50 2018 -0800
+
+    add migrate.json
+
+[33mcommit a6b485d556778393e759e556bc1d5bc965aa6671[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:12:12 2018 -0800
+
+    add migrate to postinstall
+
+[33mcommit 5b10b03ba9d94dca76a38851ffdfb7cf1a9cc2a5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Feb 6 11:03:26 2018 -0800
+
+    key setup
+
+[33mcommit 0e45f10d379f745e604c3d72c97a111e45e0a64a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 16:10:45 2018 -0800
+
+    added migration script
+
+[33mcommit dcc4c56f9a9bf61f376094db32c7fd80e7c5b1fb[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 16:08:01 2018 -0800
+
+    complete migrations
+
+[33mcommit 16db4e2ff0e3f9a202357b94c2e834a7252e0750[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 14:37:44 2018 -0800
+
+    migrations
+
+[33mcommit 8724f25081caca5cd916e63f736b380550629959[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 14:33:26 2018 -0800
+
+    multi file uploads
+
+[33mcommit 73ff59f119da6a6c76f858df77c34535ba8ba9f3[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 14:18:27 2018 -0800
+
+    frontend update
+
+[33mcommit fe244e3d97596f679a2f4cabd8dcc50578cbce80[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 13:55:17 2018 -0800
+
+    polish migration file
+
+[33mcommit 6d3c48cc189cef137bfc8ec75ad68d3da1fe615a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 12:11:59 2018 -0800
+
+    added migration
+
+[33mcommit 610248327b9c638d3d0d0d450514a39e28287255[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 11:11:14 2018 -0800
+
+    added files property
+
+[33mcommit c746f18bd7a3f47929e3b53bde1bcb8e1fdc1120[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 10:33:39 2018 -0800
+
+    prod db
+
+[33mcommit 66873ce82c1179fde584a6a46e8c9b3dbc60c6a0[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 10:30:23 2018 -0800
+
+    prod s3
+
+[33mcommit a8471ec4d9975da402435e7f12c7a5752032f0f9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 10:25:54 2018 -0800
+
+    heroku postbuild
+
+[33mcommit e1dc5faf199267da85423c31f0e80da52382f6f9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 10:24:32 2018 -0800
+
+    remove dirname
+
+[33mcommit 6985764db3b7da24b54bfa83091407362574dbc6[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Feb 5 10:15:12 2018 -0800
+
+    pre-refactor
+
+[33mcommit d644bd7b4a1ba7fac281030445b4cffe059ae535[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Feb 1 16:15:27 2018 -0800
+
+    blog show
+
+[33mcommit a9d4a20bf0ae2147b28d198484e73572c6b32b0f[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Feb 1 16:08:16 2018 -0800
+
+    refactor state to object
+
+[33mcommit 18c08249593b358e151ae4ba9ad8ce55b905b29a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Feb 1 15:31:14 2018 -0800
+
+    style polish
+
+[33mcommit 9c7c3fab8ad59454f4f7a76d200403d46cc8afd9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Feb 1 15:28:32 2018 -0800
+
+    added image upload
+
+[33mcommit f8ee5f986bf9f8c1781aa09197925d38d4649b9e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Feb 1 12:08:54 2018 -0800
+
+    remove up config
+
+[33mcommit d02323c9dabef8b6eba631499ec93b7616bcf2a9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 13:06:39 2018 -0800
+
+    up config
+
+[33mcommit 92dcff6e2d408c4d0437c6493818ca00baab1b12[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 12:31:05 2018 -0800
+
+    enable caching
+
+[33mcommit 9ff1ca7ed764b8144f200445c175742310d42ba9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 12:12:33 2018 -0800
+
+    remove aws sdk
+
+[33mcommit b80fb392e435af8e8cc8b47f5becec8d9d4c1be5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 12:03:19 2018 -0800
+
+    buildspec
+
+[33mcommit d444dbdf7d70fe72edf9a4d7d039df2dd512b39a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:59:03 2018 -0800
+
+    move deps back over
+
+[33mcommit b9dfd55edb81f422b21caa886250dc38ebc3659c[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:58:34 2018 -0800
+
+    nasty install
+
+[33mcommit 4fc05f9b00bba4f883c59e715cecccbf16dd14c3[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:52:42 2018 -0800
+
+    yes flag
+
+[33mcommit 5cff8e704348c42a7e4ef78b2d475800e3c29e2f[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:48:38 2018 -0800
+
+    tweak buildspec
+
+[33mcommit af1ce74664e9103e9bfc80cfad4381973a9f2289[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:34:13 2018 -0800
+
+    key tweaks
+
+[33mcommit cec3257b87a6196c4682320e0d7164cd96611a11[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:27:55 2018 -0800
+
+    remove checkout
+
+[33mcommit dab3e50a764267278f37afac7ba7bd3b6368a775[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:17:29 2018 -0800
+
+    more codebuild pipelien tweaks
+
+[33mcommit dc2d1993fbddcabf82733fa882e719db5c933fad[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 11:11:13 2018 -0800
+
+    force rebuild
+
+[33mcommit 6363d61e2854d8c8bca937f80559e3b43578991f[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:53:00 2018 -0800
+
+    remove more spread syntax
+
+[33mcommit 16c3ee9482f408c24798276e64b73522fe22f818[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:33:39 2018 -0800
+
+    remove ... syntax
+
+[33mcommit a085e323ebc142e7e7c68c3b33a7327416deb48e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:29:04 2018 -0800
+
+    move deps
+
+[33mcommit 09a458f6eac360bd0633f47ee688bdfc1c6ca0d5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:24:33 2018 -0800
+
+    remove codepipeline xvfb
+
+[33mcommit 0fdb33b56d92698614678a51d6b46e02e274c713[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:16:43 2018 -0800
+
+    yes flag on xvfb install
+
+[33mcommit 3f3824198e8ff8356c9e6994e552d67617b6c807[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:08:39 2018 -0800
+
+    Restore keys
+
+[33mcommit fc6a005eb9cc1334950b7a5f571c43ed3e94d834[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:05:50 2018 -0800
+
+    added container tag
+
+[33mcommit b99434053dafb4374b699d95ef1d0bb312b13fbc[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:05:00 2018 -0800
+
+    removed validatemails
+
+[33mcommit f7583e45b58600ae9c803cf3adf22e7c5cde6997[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 10:01:39 2018 -0800
+
+    remove travis xvfb setup
+
+[33mcommit d4ac2608b4238ed564a739e524308d12e6e63c05[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 09:59:49 2018 -0800
+
+    aws codepipeline setup
+
+[33mcommit ea81edf93972348b16becbcb221d1672093ffebc[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 31 09:40:14 2018 -0800
+
+    cleanup
+
+[33mcommit 0d9ed3f5b6b9a87ead1f274a4415898dec3647ca[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 17:29:59 2018 -0800
+
+    added tons o tests
+
+[33mcommit 7f4e99659cd2c27a84f45c2a412d46a34b18010d[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 14:01:52 2018 -0800
+
+    additional args
+
+[33mcommit c3ad81bb919554a48149af33b285564b350776d6[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 13:57:40 2018 -0800
+
+    update travis for puppeteer'
+
+[33mcommit db132173d6d91cf7ea5ce8d79b202532db93fd05[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 13:50:20 2018 -0800
+
+    working puppeteer implementation
+
+[33mcommit 5df35b9999c9f792056f9ab6fdb307eb7c579809[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 13:31:58 2018 -0800
+
+    working chromeless
+
+[33mcommit a0036770e8c2986adcba9b111f8121eeed7f31b5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 13:01:31 2018 -0800
+
+    close active tabs after tests
+
+[33mcommit 5b904ac3f5599fed17cb686d3564a420721ce612[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 11:47:34 2018 -0800
+
+    pin travis url
+
+[33mcommit 9334939973e1df234b80b1866ae558d261933f66[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Jan 24 10:07:09 2018 -0800
+
+    debug
